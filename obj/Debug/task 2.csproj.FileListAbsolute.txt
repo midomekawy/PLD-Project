@@ -1,0 +1,14 @@
+C:\Users\star\source\repos\task 2\task 2\bin\Debug\task 2.exe.config
+C:\Users\star\source\repos\task 2\task 2\bin\Debug\task 2.exe
+C:\Users\star\source\repos\task 2\task 2\bin\Debug\task 2.pdb
+C:\Users\star\source\repos\task 2\task 2\bin\Debug\CalithaLib.dll
+C:\Users\star\source\repos\task 2\task 2\bin\Debug\GoldParserEngine.dll
+C:\Users\star\source\repos\task 2\task 2\obj\Debug\task 2.csproj.AssemblyReference.cache
+C:\Users\star\source\repos\task 2\task 2\obj\Debug\task 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\star\source\repos\task 2\task 2\obj\Debug\task_2.Form1.resources
+C:\Users\star\source\repos\task 2\task 2\obj\Debug\task_2.Properties.Resources.resources
+C:\Users\star\source\repos\task 2\task 2\obj\Debug\task 2.csproj.GenerateResource.cache
+C:\Users\star\source\repos\task 2\task 2\obj\Debug\task 2.csproj.CoreCompileInputs.cache
+C:\Users\star\source\repos\task 2\task 2\obj\Debug\task 2.csproj.CopyComplete
+C:\Users\star\source\repos\task 2\task 2\obj\Debug\task 2.exe
+C:\Users\star\source\repos\task 2\task 2\obj\Debug\task 2.pdb
